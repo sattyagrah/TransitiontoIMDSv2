@@ -1,4 +1,4 @@
-# TransitiontoIMDSv2
+# Transition to IMDSv2
 Transition from IMDSv1 to IMDSv2 in AWS cloud.  
 
 ### How to use the script
