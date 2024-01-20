@@ -14,7 +14,7 @@ Transition from IMDSv1 to IMDSv2 in AWS cloud.
 
 3. Run the script - 
     ```sh
-    ./tarnsition.sh
+    ./transition.sh
     ```
 
 #### Prerequisites - 
