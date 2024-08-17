@@ -4,7 +4,7 @@ Transition from IMDSv1 to IMDSv2 in AWS cloud.
 ### How to use the script
 1. Download the script, using the command given below - 
     ```sh
-    wget https://raw.githubusercontent.com/mrsatya21/TransitiontoIMDSv2/main/transition.sh
+    wget https://raw.githubusercontent.com/sattyagrah/TransitiontoIMDSv2/main/transition.sh
     ```
 
 2. Change the permission to run the script - 
